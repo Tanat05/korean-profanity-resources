@@ -36,7 +36,8 @@ Compare the performance of all profanity/cursive discriminator.
 - [korean_profanity_filter](https://github.com/Xim-ya/korean_profanity_filter): 정규식을 기반
 
   
-> etc....
+> API
+- [profanity-filter-api](https://github.com/Whale0928/profanity-filter-api?tab=readme-ov-file): [KISO 이용자 보호 시스템 API 서비스](https://github.com/Whale0928/profanity-filter-api) 서비스를 무료로 API 제공
 
 
 # 성능 검증
