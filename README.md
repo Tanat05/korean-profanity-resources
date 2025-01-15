@@ -1,16 +1,16 @@
 모든 비속어/욕설 판별기의 대한 성능을 비교려고 만들어 졌으나 학습용 데이터셋과 라이브러리 모음이 되어버린 레포입니다.
 
 # 데이터
-- [korean-malicious-comments-dataset](https://github.com/ZIZUN/korean-malicious-comments-dataset): 한국어 악성댓글 데이터셋 (10,000문장)
-- [Curse-detection-data](https://github.com/2runo/Curse-detection-data): 각종 커뮤니티 사이트의 댓글의 욕설 여부를 분류한 한글 데이터셋 (5,825문장)
-- [kmhas_korean_hate_speech](https://huggingface.co/datasets/jeanlee/kmhas_korean_hate_speech): 온라인 뉴스의 댓글를 8가지로 세분화하여 분류한 데이터셋 (78,978문장)
-- [Korean Extremist Website Womad Hate Speech Data](https://www.kaggle.com/datasets/captainnemo9292/korean-extremist-website-womad-hate-speech-data/data): 한국 극단주의 웹사이트의 데이터를 분류한 데이터셋 (2,081문장)
-- [LGBT-targeted HateSpeech Comments Dataset (Korean)](https://www.kaggle.com/datasets/junbumlee/lgbt-hatespeech-comments-at-naver-news-korean): 네이버 뉴스 성소수자 관련 댓글을 분류한 데이터셋 (8,837문장)
-- [korean-hate-chat-data](https://www.kaggle.com/datasets/tanat05/korean-hate-chat-data): korcen으로 분류한 korcen-ml의 학습 파일 중 일부(5,000,000문장)
-- [korean-hate-speech](https://github.com/kocohub/korean-hate-speech): 한국 연예 뉴스 수집 플랫폼의 댓글(9,381문장)
-- [korean_unsmile_dataset](https://github.com/smilegate-ai/korean_unsmile_dataset?tab=readme-ov-file): Smilegate AI에서 공개하는 한국어 혐오표현 "☹️ UnSmile" 데이터셋입니다. (18,742문장)
+- [korean-malicious-comments-dataset](https://github.com/ZIZUN/korean-malicious-comments-dataset): 한국어 악성댓글 데이터셋 (10,000 문장)
+- [Curse-detection-data](https://github.com/2runo/Curse-detection-data): 각종 커뮤니티 사이트의 댓글의 욕설 여부를 분류한 한글 데이터셋 (5,825 문장)
+- [kmhas_korean_hate_speech](https://huggingface.co/datasets/jeanlee/kmhas_korean_hate_speech): 온라인 뉴스의 댓글를 8가지로 세분화하여 분류한 데이터셋 (78,978 문장)
+- [Korean Extremist Website Womad Hate Speech Data](https://www.kaggle.com/datasets/captainnemo9292/korean-extremist-website-womad-hate-speech-data/data): 한국 극단주의 웹사이트의 데이터를 분류한 데이터셋 (2,081 문장)
+- [LGBT-targeted HateSpeech Comments Dataset (Korean)](https://www.kaggle.com/datasets/junbumlee/lgbt-hatespeech-comments-at-naver-news-korean): 네이버 뉴스 성소수자 관련 댓글을 분류한 데이터셋 (8,837 문장)
+- [korean-hate-chat-data](https://www.kaggle.com/datasets/tanat05/korean-hate-chat-data): korcen으로 분류한 korcen-ml의 학습 파일 중 일부(5,000,000 문장)
+- [korean-hate-speech](https://github.com/kocohub/korean-hate-speech): 한국 연예 뉴스 수집 플랫폼의 댓글(9,381 문장)
+- [korean_unsmile_dataset](https://github.com/smilegate-ai/korean_unsmile_dataset?tab=readme-ov-file): Smilegate AI에서 공개하는 한국어 혐오표현 "☹️ UnSmile" 데이터셋입니다. (18,742 문장)
 - [bad_word_list](https://github.com/hlog2e/bad_word_list): 한국에서 주로 사용되는 패드립, 욕설, 비속어 등의 JSON Array입니다. (1,145 단어)
-- [한국어 혐오표현 분류(탐지) 데이터셋](https://open.selectstar.ai/ko/tunib): 윤리적으로 문제가 되는 혐오 발화를 분류하여 문장의 윤리성을 판별하는 한국어 혐오 발화 데이터셋 (확인 중)
+- [한국어 혐오표현 분류(탐지) 데이터셋](https://open.selectstar.ai/ko/tunib): 윤리적으로 문제가 되는 혐오 발화를 분류하여 문장의 윤리성을 판별하는 한국어 혐오 발화 데이터셋 (100,000 문장)
 
 # 모델
 > PYHTON
