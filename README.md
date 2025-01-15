@@ -10,6 +10,7 @@ Compare the performance of all profanity/cursive discriminator.
 - [korean-hate-speech](https://github.com/kocohub/korean-hate-speech): 한국 연예 뉴스 수집 플랫폼의 댓글(9,381문장)
 - [korean_unsmile_dataset](https://github.com/smilegate-ai/korean_unsmile_dataset?tab=readme-ov-file): Smilegate AI에서 공개하는 한국어 혐오표현 "☹️ UnSmile" 데이터셋입니다. (18,742문장)
 - [bad_word_list](https://github.com/hlog2e/bad_word_list): 한국에서 주로 사용되는 패드립, 욕설, 비속어 등의 JSON Array입니다. (1,145 단어)
+- [한국어 혐오표현 분류(탐지) 데이터셋](https://open.selectstar.ai/ko/tunib): 윤리적으로 문제가 되는 혐오 발화를 분류하여 문장의 윤리성을 판별하는 한국어 혐오 발화 데이터셋 (확인 중)
 
 # 모델
 > PYHTON
