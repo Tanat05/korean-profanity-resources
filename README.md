@@ -44,6 +44,7 @@
   
 > API
 - [profanity-filter-api](https://github.com/Whale0928/profanity-filter-api?tab=readme-ov-file): [KISO 이용자 보호 시스템 API 서비스](https://github.com/Whale0928/profanity-filter-api) 서비스를 무료로 API 제공
+- [do-not-say-profanity](https://github.com/shinwonse/do-not-say-profanity): Google Zigsaw의 Perspective API를 활용한 비속어 검사 서비스
 
 
 # 성능 검증
