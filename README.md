@@ -1,4 +1,4 @@
-모든 비속어/욕설 판별기의 대한 성능을 비교려고 만들어 졌으나 학습용 데이터셋과 라이브러리 모음이 되어버린 레포입니다.
+모든 비속어/욕설 판별기의 대한 성능을 비교려고 만들어 졌으나 학습용 데이터셋과 라이브러리 모움이 되어버린 레포입니다.
 
 # 데이터
 - [korean-malicious-comments-dataset](https://github.com/ZIZUN/korean-malicious-comments-dataset): 한국어 악성댓글 데이터셋 (10,000 문장)
@@ -24,6 +24,7 @@
 
 > JAVA
 - [BadWordFiltering](https://github.com/VaneProject/bad-word-filtering)
+- [bad-word-filtering](https://github.com/Ghosttrio/bad-word-filtering)
 
 
 > JAVASCRIPT
