@@ -12,7 +12,7 @@
 - [bad_word_list](https://github.com/hlog2e/bad_word_list): 한국에서 주로 사용되는 패드립, 욕설, 비속어 등의 JSON Array입니다. (1,145 단어)
 - [한국어 혐오표현 분류(탐지) 데이터셋](https://open.selectstar.ai/ko/tunib): 윤리적으로 문제가 되는 혐오 발화를 분류하여 문장의 윤리성을 판별하는 한국어 혐오 발화 데이터셋 (100,000 문장)
 
-# 모델
+# 라이브러리리
 > PYHTON
 - [korcen](https://github.com/Tanat05/korcen): 키워드 기반 비속어 판단 모듈
 - [korcen-ml](https://github.com/Tanat05/korcen-ml/blob/main/README.md): korcen으로 분류한 데이터를 학습한 딥러닝 기반 비속어 판별 모델
@@ -37,6 +37,9 @@
 
 > DART
 - [korean_profanity_filter](https://github.com/Xim-ya/korean_profanity_filter): 정규식을 기반
+
+> GO
+- [korcen-go](https://github.com/fluffy-melli/korcen-go): 기존 korcen을 go로 작성한 라이브러리
 
   
 > API
