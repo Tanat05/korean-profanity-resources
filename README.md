@@ -11,6 +11,12 @@
 - [korean_unsmile_dataset](https://github.com/smilegate-ai/korean_unsmile_dataset?tab=readme-ov-file): Smilegate AI에서 공개하는 한국어 혐오표현 "☹️ UnSmile" 데이터셋입니다. (18,742 문장)
 - [bad_word_list](https://github.com/hlog2e/bad_word_list): 한국에서 주로 사용되는 패드립, 욕설, 비속어 등의 JSON Array입니다. (1,145 단어)
 - [한국어 혐오표현 분류(탐지) 데이터셋](https://open.selectstar.ai/ko/tunib): 윤리적으로 문제가 되는 혐오 발화를 분류하여 문장의 윤리성을 판별하는 한국어 혐오 발화 데이터셋 (100,000 문장)
+- [텍스트 윤리검증 데이터](https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=558): 비윤리 검증 데이터 선도사례 제시 및 AI 윤리 연구 자료를 공적 활용에 제공한다. (453,340 문장)
+- [APEACH - Korean Hate Speech Evaluation Datasets](https://github.com/jason9693/APEACH): 혐오 발언 탐지를 위한 최초의 크라우드 생성 한국어 평가 데이터셋 (3,844 문장)
+- [Naver sentiment movie corpus v1.0](https://github.com/e9t/nsmc): 한국어로 된 영화 리뷰 데이터셋 (200,000 문장)
+- [K-MHaS](https://github.com/adlnlp/K-MHaS): 한국어 패턴을 효과적으로 처리하는 혐오 발언 탐지를 위한 새로운 다중 라벨 데이터셋 (109,692 문장)
+- [DKTC](https://github.com/tunib-ai/DKTC): 2021 인공지능 그랜드 챌린지 4차대회 음성인지 트랙에 참가하기 위해 자체적으로 제작한 데이터셋
+- [KOLD](https://github.com/boychaboy/KOLD): 한국어 공격 언어 데이터셋
 
 # 라이브러리
 > PYHTON
