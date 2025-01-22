@@ -7,12 +7,6 @@
 
 - [데이터셋](#데이터셋)
 - [라이브러리](#라이브러리)
-  - [Python](#python)
-  - [Java](#java)
-  - [JavaScript](#javascript)
-  - [TypeScript](#typescript)
-  - [Dart](#dart)
-  - [Go](#go)
 - [API](#api)
 - [라이선스](#라이선스-요약)
 
