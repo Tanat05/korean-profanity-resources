@@ -11,6 +11,7 @@
 - [데이터셋](#데이터셋)
 - [라이브러리](#라이브러리)
 - [API](#api)
+- [블로그](#블로그)
 - [라이선스](#라이선스-요약)
 
 
@@ -57,6 +58,7 @@
 | [profanity-filter-api](https://github.com/Whale0928/profanity-filter-api)   | GPL-3.0 License          | [KISO 이용자 보호 시스템 API 서비스](https://github.com/Whale0928/profanity-filter-api) 서비스를 API로 제공       |
 | [do-not-say-profanity](https://github.com/shinwonse/do-not-say-profanity) | MIT License              | Google Jigsaw의 Perspective API를 활용한 비속어 검사 서비스                           |
 | [korcen-api](https://github.com/fluffy-melli/korcen-api) | Apache License 2.0 & MIT License              | [korcen-go](https://github.com/fluffy-melli/korcen-go)기반으로 만든 API                           |
+
 
 # 라이선스 요약
 ## 데이터셋
