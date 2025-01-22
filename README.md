@@ -96,13 +96,6 @@
 | [임베딩 교체에 따른 한국어 욕설 탐지 모델 성능 비교](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE09874806) | 김현종, 남궁주홍, 손시운, 길명선, 문양세 | 한국정보과학회 | 2020.7 |
 | [딥러닝 기반 욕설 탐지](https://scienceon.kisti.re.kr/srch/selectPORSrchArticle.do?cn=NPAP13485161) | 김유민, 강효빈, 한수현, 정희용 | ScienceON | 2021.11 | 
 
-**참고 사항:**
-
-*   ScienceON 논문 중 일부는 저자와 발행연도 정보가 명확히 기재되어 있지 않습니다. 해당 정보는 "정보 없음"으로 표기하였습니다.
-*   링크를 클릭하시면 해당 논문의 상세 페이지로 이동합니다.
-
-이 표가 도움이 되었기를 바랍니다.
-
 
 # 라이선스 요약
 ## 데이터셋
