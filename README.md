@@ -72,15 +72,15 @@
 
 | 제목 | 저자 | 발행기관 | 발행연도 | 링크 |
 |---|---|---|---|---|
-| 딥러닝 기반 비속어 필터링 채팅 프로그램 설계 및 구현 | 이건환, 박주찬, 최동원, 이연경, 최호빈, 한연희 | ScienceON | 2019.10 | [링크](https://scienceon.kisti.re.kr/srch/selectPORSrchArticle.do?cn=NPAP13263940) |
-| 단어와 문장의 의미를 고려한 비속어 판별 방법 | 이명호, 임명진, 신주현 | 한국스마트미디어학회 | 2020.9 | [링크](https://kiss.kstudy.com/DetailOa/Ar?key=53979484) |
-| 실시간 비속어 탐지를 위한 모델 경량화 연구 | 심규성, 조남욱 | 대한산업공학회 | 2024.10 | [링크](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11964697) |
-| 양방향 LSTM 기반 한국어 음성 비속어 필터링 | 김혜영, 이영우, 서지헌, 박성민, 김현우, 박영진 | 멀티미디어학회 | 2024.1 | [링크](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11699989) |
-| BERT 기반 욕설 필터링 및 GPT 기반 감성 대화 챗봇 개발 | 최안준 | 한국지능정보시스템학회 | 2022.11 | [링크](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11207665) |
-| 잠재벡터 정규화를 이용한 문맥기반 욕설탐지의 성별 편향성 제거 | 박재일, 조성배 | 한국정보과학회 | 2022.06 | [링크](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11113507) |
-| BERT를 활용한 초등학교 고학년의 욕설문장 자동 분류방안 연구 | 심재권 | 창의정보문화연구 | 2021 | [링크](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10660656) |
-| 임베딩 교체에 따른 한국어 욕설 탐지 모델 성능 비교 | 김현종, 남궁주홍, 손시운, 길명선, 문양세 | 한국정보과학회 | 2020.7 | [링크](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE09874806) |
-| 딥러닝 기반 욕설 탐지 | 김유민, 강효빈, 한수현, 정희용 | ScienceON | 2021.11 | [링크](https://scienceon.kisti.re.kr/srch/selectPORSrchArticle.do?cn=NPAP13485161) |
+| [딥러닝 기반 비속어 필터링 채팅 프로그램 설계 및 구현](https://scienceon.kisti.re.kr/srch/selectPORSrchArticle.do?cn=NPAP13263940) | 이건환, 박주찬, 최동원, 이연경, 최호빈, 한연희 | ScienceON | 2019.10 |
+| [단어와 문장의 의미를 고려한 비속어 판별 방법](https://kiss.kstudy.com/DetailOa/Ar?key=53979484) | 이명호, 임명진, 신주현 | 한국스마트미디어학회 | 2020.9 |
+| [실시간 비속어 탐지를 위한 모델 경량화 연구](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11964697) | 심규성, 조남욱 | 대한산업공학회 | 2024.10 |
+| [양방향 LSTM 기반 한국어 음성 비속어 필터링](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11699989) | 김혜영, 이영우, 서지헌, 박성민, 김현우, 박영진 | 멀티미디어학회 | 2024.1 | 
+| [BERT 기반 욕설 필터링 및 GPT 기반 감성 대화 챗봇 개발](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11207665) | 최안준 | 한국지능정보시스템학회 | 2022.11 |
+| [잠재벡터 정규화를 이용한 문맥기반 욕설탐지의 성별 편향성 제거](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11113507) | 박재일, 조성배 | 한국정보과학회 | 2022.06 |
+| [BERT를 활용한 초등학교 고학년의 욕설문장 자동 분류방안 연구](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10660656) | 심재권 | 창의정보문화연구 | 2021 |
+| [임베딩 교체에 따른 한국어 욕설 탐지 모델 성능 비교](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE09874806) | 김현종, 남궁주홍, 손시운, 길명선, 문양세 | 한국정보과학회 | 2020.7 |
+| [딥러닝 기반 욕설 탐지](https://scienceon.kisti.re.kr/srch/selectPORSrchArticle.do?cn=NPAP13485161) | 김유민, 강효빈, 한수현, 정희용 | ScienceON | 2021.11 | 
 
 **참고 사항:**
 
