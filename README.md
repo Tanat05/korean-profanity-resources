@@ -69,7 +69,26 @@
 업데이트 예정
 
 # 논문
-업데이트 예정
+
+| 제목 | 저자 | 발행기관 | 발행연도 | 링크 |
+|---|---|---|---|---|
+| 딥러닝 기반 비속어 필터링 채팅 프로그램 설계 및 구현 | 이건환, 박주찬, 최동원, 이연경, 최호빈, 한연희 | ScienceON | 2019.10 | [링크](https://scienceon.kisti.re.kr/srch/selectPORSrchArticle.do?cn=NPAP13263940) |
+| 단어와 문장의 의미를 고려한 비속어 판별 방법 | 이명호, 임명진, 신주현 | 한국스마트미디어학회 | 2020.9 | [링크](https://kiss.kstudy.com/DetailOa/Ar?key=53979484) |
+| 실시간 비속어 탐지를 위한 모델 경량화 연구 | 심규성, 조남욱 | 대한산업공학회 | 2024.10 | [링크](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11964697) |
+| 양방향 LSTM 기반 한국어 음성 비속어 필터링 | 김혜영, 이영우, 서지헌, 박성민, 김현우, 박영진 | 멀티미디어학회 | 2024.1 | [링크](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11699989) |
+| BERT 기반 욕설 필터링 및 GPT 기반 감성 대화 챗봇 개발 | 최안준 | 한국지능정보시스템학회 | 2022.11 | [링크](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11207665) |
+| 잠재벡터 정규화를 이용한 문맥기반 욕설탐지의 성별 편향성 제거 | 박재일, 조성배 | 한국정보과학회 | 2022.06 | [링크](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11113507) |
+| BERT를 활용한 초등학교 고학년의 욕설문장 자동 분류방안 연구 | 심재권 | 창의정보문화연구 | 2021 | [링크](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10660656) |
+| 임베딩 교체에 따른 한국어 욕설 탐지 모델 성능 비교 | 김현종, 남궁주홍, 손시운, 길명선, 문양세 | 한국정보과학회 | 2020.7 | [링크](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE09874806) |
+| 딥러닝 기반 욕설 탐지 | 김유민, 강효빈, 한수현, 정희용 | ScienceON | 2021.11 | [링크](https://scienceon.kisti.re.kr/srch/selectPORSrchArticle.do?cn=NPAP13485161) |
+
+**참고 사항:**
+
+*   ScienceON 논문 중 일부는 저자와 발행연도 정보가 명확히 기재되어 있지 않습니다. 해당 정보는 "정보 없음"으로 표기하였습니다.
+*   링크를 클릭하시면 해당 논문의 상세 페이지로 이동합니다.
+
+이 표가 도움이 되었기를 바랍니다.
+
 
 # 라이선스 요약
 ## 데이터셋
