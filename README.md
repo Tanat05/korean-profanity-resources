@@ -70,8 +70,8 @@
 
 # 논문
 
-| 제목 | 저자 | 발행기관 | 발행연도 | 링크 |
-|---|---|---|---|---|
+| 제목 | 저자 | 발행기관 | 발행연도 |
+|---|---|---|---|
 | [딥러닝 기반 비속어 필터링 채팅 프로그램 설계 및 구현](https://scienceon.kisti.re.kr/srch/selectPORSrchArticle.do?cn=NPAP13263940) | 이건환, 박주찬, 최동원, 이연경, 최호빈, 한연희 | ScienceON | 2019.10 |
 | [단어와 문장의 의미를 고려한 비속어 판별 방법](https://kiss.kstudy.com/DetailOa/Ar?key=53979484) | 이명호, 임명진, 신주현 | 한국스마트미디어학회 | 2020.9 |
 | [실시간 비속어 탐지를 위한 모델 경량화 연구](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11964697) | 심규성, 조남욱 | 대한산업공학회 | 2024.10 |
