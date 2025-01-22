@@ -63,7 +63,13 @@
 | [korcen-api](https://github.com/fluffy-melli/korcen-api) | Apache License 2.0 & MIT License              | [korcen-go](https://github.com/fluffy-melli/korcen-go)기반으로 만든 API                           |
 
 # 모델
-업데이트 예정
+| 모델 이름 | GitHub / Hugging Face 링크 | 설명 |
+|---|---|---|
+| **korcen-ml** | https://github.com/Tanat05/korcen-ml |  **한국어** 비속어 탐지 모델입니다. 채팅 데이터를 학습했으며 일부 모델만 공개하고 최신 모델의 경우 유료로 판매하고 있습니다. |
+| **badword_check** | https://github.com/Nam-SW/badword_check |  **한국어** 비속어 탐지 라이브러리입니다. 간단한 API를 제공하여 빠르게 비속어 여부를 판단할 수 있습니다. 내장된 비속어 사전을 기반으로 탐지하며, 사용자가 직접 비속어 사전을 추가할 수도 있습니다. 정확도보다는 속도에 중점을 둔 모델입니다. |
+| **EthicalEye** | https://huggingface.co/autopilot-ai/EthicalEye |  **영어**에 특화된 유해 콘텐츠(toxic content) 탐지 모델입니다.  Hate speech, insults, threats, obscene language 등 다양한 유형의 유해 콘텐츠를 탐지합니다.  RoBERTa 모델을 기반으로 하며, 높은 정확도를 자랑합니다.  영어 데이터에 대한 높은 성능을 보이지만, 다국어 지원은 제한적입니다. |
+| **multilingual-sentiment-analysis** | https://huggingface.co/tabularisai/multilingual-sentiment-analysis |  다국어 감성 분석 모델입니다.  **비속어 탐지 전용 모델은 아니지만**, 부정적인 감성을 가진 텍스트를 탐지하는 기능을 통해 간접적으로 비속어를 탐지하는 데 활용할 수 있습니다.  XLM-RoBERTa 모델을 기반으로 하며, 영어, 프랑스어, 독일어, 스페인어, 이탈리아어, 포르투갈어, 러시아어, 중국어, 일본어, **한국어** 등 다양한 언어를 지원합니다. |
+
 
 # 블로그
 업데이트 예정
