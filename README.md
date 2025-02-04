@@ -74,32 +74,6 @@ AI를 이용해 편집된 내용입니다.
 | **multilingual-sentiment-analysis** | https://huggingface.co/tabularisai/multilingual-sentiment-analysis |  다국어 감성 분석 모델입니다.  **비속어 탐지 전용 모델은 아니지만**, 부정적인 감성을 가진 텍스트를 탐지하는 기능을 통해 간접적으로 비속어를 탐지하는 데 활용할 수 있습니다.  XLM-RoBERTa 모델을 기반으로 하며, 영어, 프랑스어, 독일어, 스페인어, 이탈리아어, 포르투갈어, 러시아어, 중국어, 일본어, **한국어** 등 다양한 언어를 지원합니다. |
 
 
-# 블로그
-| 블로그 제목 | 설명 |
-|---|---|
-| [딥러닝 모델을 이용하여 비속어 필터링 구현하기 (skt-KoBERT, 1번째 전처리 단계)](https://www.google.com/url?sa=E&source=gmail&q=https://devlany.tistory.com/entry/%EB%94%A5%EB%9F%AC%EB%8B%9D-%EB%AA%A8%EB%8D%B8%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-%EB%B9%84%EC%86%8D%EC%96%B4-%ED%95%84%ED%84%B0%EB%A7%81-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0skt-KoBERT-1%EB%B2%88%EC%A7%B8-%EC%A0%84%EC%B2%98%EB%A6%AC-%EB%8B%A8%EA%B3%84)  |  **skt-KoBERT** 모델을 이용한 한국어 비속어 필터링 방법을 소개합니다.  **전처리 단계**에 대한 글로, 토크나이징, 정수 인코딩, 패딩 등 데이터 전처리 과정에 대해 상세히 설명합니다.  디스코드와 같이 혐오 표현이 빈번하게 발생하는 환경에서 유연한 필터링을 목표로 합니다. |
-| [인공지능을 이용한 딥러닝 욕설 필터링 모델 만들기 - 1번째 (전처리 단계)](https://devlany.tistory.com/entry/딥러닝-모델을-이용하여-비속어-필터링-구현하기skt-KoBERT-1번째-전처리-단계) |  딥러닝을 활용한 **한국어** 욕설 필터링 모델 제작 과정을 단계별로 설명하는 시리즈의 첫 번째 글입니다.  이 글에서는 **전처리 단계**에 초점을 맞추어 설명합니다.  데이터셋 준비, 토크나이징, 정제, 불용어 처리 등 전처리 과정에 대한 구체적인 방법을 제시 |
-| [딥 러닝을 이용한 자연어 처리 입문](https://wikidocs.net/book/2155) |  딥러닝 기반 **자연어 처리(NLP)** 전반에 대한 내용을 다루는 온라인 서적입니다.  **비속어 필터링에 특화된 내용은 아니지만**, 텍스트 분류, 토크나이징, 임베딩 등 NLP의 핵심 개념과 기술들을 학습할 수 있어 비속어 필터링 모델 개발에 도움이 되는 배경 지식을 쌓을 수 있습니다. |
-| [여러 모델을 활용한 비속어 문장 탐지](https://coco0414.tistory.com/99#google_vignette) |  다양한 기계학습 및 딥러닝 모델을 활용하여 **한국어** 비속어 문장을 탐지하는 실험 과정을 상세히 설명합니다.  Logistic Regression, LSTM, BERT, KoBERT 등 여러 모델의 성능을 비교 분석하고, 각 모델의 장단점을 파악할 수 있습니다.  게임 커뮤니티에서 수집한 데이터를 활용하려 했으나, 공개된 데이터셋을 사용한 실험을 진행합니다. |
-| [NDC Replay: 불량 이용자 대응을 위한 AI 활용](http://ndcreplay.nexon.com/NDC2018/sessions/NDC2018_0033.html#c=NDC2018&p=2) |  넥슨에서 진행한 NDC(Nexon Developers Conference) 2018 발표 영상입니다.  **게임** 내 불량 이용자 대응을 위한 AI 활용 사례를 소개합니다.  **비속어 필터링을 포함하여**, 어뷰징, 불법 프로그램 사용 탐지 등 다양한 AI 기술 적용 사례를 다룹니다.  실제 게임 서비스에 AI를 적용하는 과정에서 겪은 경험과 노하우를 공유합니다. |
-| [메세지 필터링 : 사전 기반에서 딥러닝까지 \#욕설필터링 \#사전기반 \#딥러닝](https://www.google.com/url?sa=E&source=gmail&q=https://medium.com/saraminlab/%EB%A9%94%EC%84%B8%EC%A7%80-%ED%95%84%ED%84%B0%EB%A7%81-%EC%82%AC%EC%A0%84-%EA%B8%B0%EB%B0%98%EC%97%90%EC%84%9C-%EB%94%A5%EB%9F%AC%EB%8B%9D%EA%B9%8C%EC%A7%80-%EC%9A%95%EC%84%A4%ED%95%84%ED%84%B0%EB%A7%81-%EC%82%AC%EC%A0%84%EA%B8%B0%EB%B0%98-%EB%94%A5%EB%9F%AC%EB%8B%9D-698b37e24c44) | **한국어** 욕설 필터링 기술의 발전 과정을 **사전 기반 방식부터 딥러닝 기반 방식까지** 단계별로 설명합니다.  각 방식의 장단점과 한계를 분석하고, 딥러닝 기반 방식의 우수성을 강조합니다.  실제 서비스에 적용된 사례를 바탕으로 기술의 변천사를 살펴볼 수 있는 유용한 자료입니다. |
-
-
-# 논문
-
-| 제목 | 저자 | 발행기관 | 발행연도 |
-|---|---|---|---|
-| [딥러닝 기반 비속어 필터링 채팅 프로그램 설계 및 구현](https://scienceon.kisti.re.kr/srch/selectPORSrchArticle.do?cn=NPAP13263940) | 이건환, 박주찬, 최동원, 이연경, 최호빈, 한연희 | ScienceON | 2019.10 |
-| [단어와 문장의 의미를 고려한 비속어 판별 방법](https://kiss.kstudy.com/DetailOa/Ar?key=53979484) | 이명호, 임명진, 신주현 | 한국스마트미디어학회 | 2020.9 |
-| [실시간 비속어 탐지를 위한 모델 경량화 연구](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11964697) | 심규성, 조남욱 | 대한산업공학회 | 2024.10 |
-| [양방향 LSTM 기반 한국어 음성 비속어 필터링](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11699989) | 김혜영, 이영우, 서지헌, 박성민, 김현우, 박영진 | 멀티미디어학회 | 2024.1 | 
-| [BERT 기반 욕설 필터링 및 GPT 기반 감성 대화 챗봇 개발](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11207665) | 최안준 | 한국지능정보시스템학회 | 2022.11 |
-| [잠재벡터 정규화를 이용한 문맥기반 욕설탐지의 성별 편향성 제거](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11113507) | 박재일, 조성배 | 한국정보과학회 | 2022.06 |
-| [BERT를 활용한 초등학교 고학년의 욕설문장 자동 분류방안 연구](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10660656) | 심재권 | 창의정보문화연구 | 2021 |
-| [임베딩 교체에 따른 한국어 욕설 탐지 모델 성능 비교](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE09874806) | 김현종, 남궁주홍, 손시운, 길명선, 문양세 | 한국정보과학회 | 2020.7 |
-| [딥러닝 기반 욕설 탐지](https://scienceon.kisti.re.kr/srch/selectPORSrchArticle.do?cn=NPAP13485161) | 김유민, 강효빈, 한수현, 정희용 | ScienceON | 2021.11 | 
-
-
 # 라이선스 요약
 ## 데이터셋
 | 라이선스 유형          | 설명                                                                                                                                 | 상업적 이용 | 수정   | 재배포 | 저작권 및 라이선스 고지 | 동일 라이선스 조건 |
