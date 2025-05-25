@@ -15,7 +15,6 @@ AI를 이용해 편집된 내용입니다.
 - [API](#api): 욕설, 비속어, 혐오 표현 판별 기능을 지원하는 API
 - [모델](#모델): 욕설, 비속어, 혐오 표현 판별하는 모델
 - [라이선스](#라이선스-요약): 데이터셋, 라이브러리, API에 사용된 라이선스 요약
-- [성능 검증](#성능검증): 라이브러리, API를 데이터셋으로 어느정도의 성능이 나오는지 표로 정리(업데이트 예정)
 
 
 # 데이터셋
@@ -93,21 +92,3 @@ AI를 이용해 편집된 내용입니다.
 | **Apache License 2.0** | 특허권 관련 조항이 포함된 오픈 소스 라이선스. 상업적 이용, 수정, 재배포 가능. 저작권 및 라이선스 고지, 변경 사항 명시 필요. 소스코드 공개 의무는 없음.                                                       | ⭕       | ⭕   | ⭕   | ⭕                   | ❌        | ❌            |
 | **GPL-3.0 License**   | 강력한 카피레프트(copyleft) 라이선스. 이 라이선스를 사용한 코드를 포함하는 프로그램은 반드시 동일한 라이선스로 공개해야 함. 상업적 이용 가능. 저작권 및 라이선스 고지, 변경 사항 명시, 소스 코드 공개 필요. | ⭕       | ⭕   | ⭕   | ⭕                   | ⭕          | ⭕              |
 | **확인 필요**          | 라이선스 정보가 명확히 기재되어 있지 않거나, 추가 확인이 필요한 경우. | ❓     | ❓ | ❓ | ❓                 | ❓            | ❓            |
-
-# 성능검증
-> 데이터와 결과가 일치한 개수 / 전체 데이터 개수
-> 
-> 현재의 성능은 많이 다를 수 있음
->
-> 언젠가 업데이트 예정
-
-|  | [korean-malicious-comments-dataset](https://github.com/ZIZUN/korean-malicious-comments-dataset) | [Curse-detection-data](https://github.com/2runo/Curse-detection-data) | [kmhas_korean_hate_speech](https://huggingface.co/datasets/jeanlee/kmhas_korean_hate_speech) | [Korean Extremist Website Womad Hate Speech Data](https://www.kaggle.com/datasets/captainnemo9292/korean-extremist-website-womad-hate-speech-data/data) | [LGBT-targeted HateSpeech Comments Dataset (Korean)](https://www.kaggle.com/datasets/junbumlee/lgbt-hatespeech-comments-at-naver-news-korean) | [korean-hate-chat-data](https://www.kaggle.com/datasets/tanat05/korean-hate-chat-data) | [korean-hate-speech](https://github.com/kocohub/korean-hate-speech) | [korean_unsmile_dataset](https://github.com/smilegate-ai/korean_unsmile_dataset?tab=readme-ov-file) | 평균 처리 속도 |
-|------|------|------|------|------|------|------|------|------|------|
-| [korcen](https://github.com/KR-korcen/korcen) | 0.7121 | 0.8415 | 0.6773 | 0.6305 | 0.4479 | 0.9857 |  | 0.5534 | 9ms |
-| [korcen-ml](https://github.com/KR-korcen/korcen-ml/blob/main/README.md) | **0.8395** | **0.8432** | **0.8851** | **0.7155** | **0.7020** | **0.9941** |  | **0.7824** | 40ms |
-| [badword_check](https://github.com/Nam-SW/badword_check) | 0.5829 | 0.6761 |  | 0.6410 | 0.4738 | 0.7980 |  | 0.4913 | 43ms |
-| [CurseDetector](https://github.com/mangto/CurseDetector) |  | 0.5679 |  | 0.5785 |  | 0.6657 |  |  | 267ms |
-| [BadWordFiltering](https://github.com/VaneProject/bad-word-filtering) |  |  |  |  |  |  |  |  |  |
-| [Cenkor](https://github.com/sh9351/cenkor) |  | 0.8317 |  | 0.6275 |  |  |  |  | **0.2**ms |
-| [korcen.ts](https://github.com/Tanat05/korcen.ts) |  |  |  |  |  |  |  |  |  |
-| [korean_profanity_filter](https://github.com/Xim-ya/korean_profanity_filter) |  |  |  |  |  |  |  |  |  |
