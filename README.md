@@ -43,6 +43,7 @@
 | HateScore | [hatescore-korean-hate-speech](https://github.com/sgunderscore/hatescore-korean-hate-speech)                         |       약 11,000       |  Apache-2.0 license         | 위키피디아에서 수집한 혐오 이슈 관련 댓글 데이터                                                                                                                                   |
 | 나무위키 욕설 | [욕설/한국어](https://namu.wiki/w/%EC%9A%95%EC%84%A4/%ED%95%9C%EA%B5%AD%EC%96%B4)                         |       -       |  확인필요         | 나무위키 한국어 전체에서 사용되는 욕설을 소개하는 문서                       |
 | 리그오브레전드 필터링 리스트 | [리스트](https://github.com/Tanat05/korean-profanity-resources/blob/main/%EB%A6%AC%EA%B7%B8%EC%98%A4%EB%B8%8C%EB%A0%88%EC%A0%84%EB%93%9C_%ED%95%84%ED%84%B0%EB%A7%81%EB%A6%AC%EC%8A%A4%ED%8A%B8_2020.txt)                         |       3,272       |  확인필요         | 리그오브레전드(롤)에서 필터링되는 욕설 리스트(출처 불명확)                       |
+| 욕설 리스트 | [리스트](https://github.com/Tanat05/korean-profanity-resources/blob/main/slang.csv)                         |       4,241       |  확인필요         | 욕설 리스트(출처 불명확)                       |
 
 # 라이브러리
 
