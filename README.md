@@ -122,6 +122,16 @@
 
 ---
 
+## Star History
+
+<a href="https://www.star-history.com/?repos=Tanat05%2Fkorean-profanity-resources&type=date&logscale=&legend=bottom-right">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=Tanat05/korean-profanity-resources&type=date&theme=dark&legend=bottom-right" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=Tanat05/korean-profanity-resources&type=date&legend=bottom-right" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=Tanat05/korean-profanity-resources&type=date&legend=bottom-right" />
+ </picture>
+</a>
+
 ## 🔍 Keywords / 검색어
 **Korean:** 한국어 욕설, 비속어 리스트, 혐오 표현 데이터셋, 악성 댓글 필터링, 금지어 목록, 롤 욕설, 비하 발언 리소스, 일베 용어, 메갈 용어, 신조어 필터링
 **English:** Korean profanity list, Korean bad words dataset, Korean hate speech detection, offensive language corpus, abusive language dataset, K-slang, Korean filtered words
