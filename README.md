@@ -50,7 +50,7 @@
 | **f-word (list)** | [Link](https://github.com/theeluwin/f-word/blob/master/f_word/data/bad_words.json) | 약 400 | MIT | Python f-word 라이브러리에 내장된 비속어 리스트 |
 | **korean-bad-words** | [Link](https://github.com/mogong2/korean-bad-words) | 약 100 | Unknown | JSON 형식의 간단한 한국어 비속어 목록 |
 | **LoL 필터링 리스트 2020** | [Link](./%EB%A6%AC%EA%B7%B8%EC%98%A4%EB%B8%8C%EB%A0%88%EC%A0%84%EB%93%9C_%ED%95%84%ED%84%B0%EB%A7%81%EB%A6%AC%EC%8A%A4%ED%8A%B8_2020.txt) | 3,272 | 확인 필요 | 리그오브레전드(LoL)에서 사용되는 필터링 리스트 |
-| **욕설 리스트 (slang.csv)** | [Link](./slang.csv) | 4,315 | 확인 필요 | 본 저장소에서 유지보수하는 욕설 리스트 (최근 업데이트 포함) |
+| **욕설 리스트 (slang.csv)** | [Link](./slang.csv) | 4,315 | 확인 필요 | 출처가 불분명한 데이터셋|
 
 ---
 
